@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp -O3 -DNDEBUG -shared  -o pynabo.so CMakeFiles/pynabo.dir/nabo.cpp.o CMakeFiles/pynabo.dir/__/nabo/nabo.cpp.o CMakeFiles/pynabo.dir/__/nabo/brute_force_cpu.cpp.o CMakeFiles/pynabo.dir/__/nabo/kdtree_cpu.cpp.o CMakeFiles/pynabo.dir/__/nabo/kdtree_opencl.cpp.o  //usr/lib/x86_64-linux-gnu/libboost_python.so //usr/lib/x86_64-linux-gnu/libpython2.7.so 

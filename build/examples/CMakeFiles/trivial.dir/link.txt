@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/trivial.dir/trivial.cpp.o -o trivial  ../libnabo.a -lgomp 
